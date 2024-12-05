@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788061858331",
+    "project_id": "gedye-b9045",
+    "storage_bucket": "gedye-b9045.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788061858331:android:617c80deac1e1b7a47e6be",
+        "android_client_info": {
+          "package_name": "com.nfo.contact"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAez9KMxgVM8jkmzu-qNjTadzd0GJ3O-RA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
